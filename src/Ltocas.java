@@ -7,8 +7,7 @@ public class Ltocas {
 
 		System.out.println("hello - TL");
 
-		System.out.println("hi tl vijay");
-
+System.out.println("hi to..");
 	
 
 	}
