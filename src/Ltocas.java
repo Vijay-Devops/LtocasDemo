@@ -2,9 +2,15 @@
 public class Ltocas {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Demo.vijay();
 		System.out.println("hello");
+		
 
 	}
 
+}
+class Demo{
+	static void vijay() {
+		System.out.println("haiii im from ltocas");
+	}
 }
